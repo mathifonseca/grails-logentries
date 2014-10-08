@@ -1,6 +1,8 @@
 Grails Logentries Integration Plugin
 =================
 
+[![Build Status](https://travis-ci.org/mathifonseca/grails-logentries.svg?branch=master)](https://travis-ci.org/mathifonseca/grails-logentries)
+
 With this plugin, you just need to add this section to your Config.groovy
 
 ```
