@@ -17,7 +17,7 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
-        build ':release:3.0.1', ':rest-client-builder:2.0.3' {
+        build(':release:3.0.1', ':rest-client-builder:2.0.3') {
             export = false
         }
         provided(':version-update:1.3.2') {
