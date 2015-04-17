@@ -13,14 +13,14 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
-        compile "com.logentries:logentries-appender:1.1.27"
+        compile "com.logentries:logentries-appender:1.1.30"
     }
 
     plugins {
         build(':release:3.0.1', ':rest-client-builder:2.0.3') {
             export = false
         }
-        provided(':version-update:1.3.2') {
+        provided(':version-update:1.3.3') {
             export = false
         }
     }
