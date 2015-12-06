@@ -3,7 +3,7 @@ import com.logentries.log4j.LogentriesAppender
 
 class LogentriesGrailsPlugin {
 
-    def version = '1.1.0'
+    def version = '1.2.0'
     def grailsVersion = "2.3 > *"
     def title = "Logentries Plugin"
     def author = "Mathias Fonseca"
