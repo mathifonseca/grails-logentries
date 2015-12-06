@@ -13,7 +13,7 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
-        compile "com.logentries:logentries-appender:1.1.30"
+        compile "com.logentries:logentries-appender:1.1.32"
     }
 
     plugins {
